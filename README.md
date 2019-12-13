@@ -1,5 +1,4 @@
 # PastaVision v1.1
-### Changes
 ##### Sanity
 Added ability to save and load scores
 ##### Carpal tunnel reduction
