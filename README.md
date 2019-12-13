@@ -1,5 +1,5 @@
 # PastaVision v1.1
-Behavioural analysis of pasta
+## Behavioural analysis of pasta
 
 Changes
 Sanity - Added ability to save and load scores
